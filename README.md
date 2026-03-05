@@ -1,8 +1,4 @@
 # Amazon Reviews Analysis
-**Big Data and Cloud Computing Project**  
-Dora Jiayue Li
-
----
 
 ## Overview
 
